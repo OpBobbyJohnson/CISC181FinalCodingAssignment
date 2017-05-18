@@ -38,7 +38,7 @@
             <TextField fx:id="txtIncome" GridPane.columnIndex="1" GridPane.rowIndex="2" />
             <TextField fx:id="txtExpenses" GridPane.columnIndex="1" GridPane.rowIndex="3" />
             <ComboBox fx:id="combTerm" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
-            <TextField fx:id="IblMortgagePayment" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <TextField fx:id="lblMortgagePayment" GridPane.columnIndex="1" GridPane.rowIndex="5" />
          </children>
       </GridPane>
       <ComboBox prefWidth="150.0" />
