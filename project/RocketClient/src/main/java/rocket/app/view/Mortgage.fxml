@@ -41,6 +41,5 @@
             <TextField fx:id="lblMortgagePayment" GridPane.columnIndex="1" GridPane.rowIndex="5" />
          </children>
       </GridPane>
-      <ComboBox prefWidth="150.0" />
    </children>
 </AnchorPane>
